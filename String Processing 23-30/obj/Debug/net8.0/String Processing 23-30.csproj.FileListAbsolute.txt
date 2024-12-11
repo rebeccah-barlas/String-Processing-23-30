@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\bin\Debug\net8.0\String Processing 23-30.exe
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\bin\Debug\net8.0\String Processing 23-30.deps.json
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\bin\Debug\net8.0\String Processing 23-30.runtimeconfig.json
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\bin\Debug\net8.0\String Processing 23-30.dll
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\bin\Debug\net8.0\String Processing 23-30.pdb
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.AssemblyInfo.cs
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.dll
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\refint\String Processing 23-30.dll
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.pdb
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\String Processing 23-30.genruntimeconfig.cache
+C:\Users\barla\source\repos\String Processing 23-30\String Processing 23-30\obj\Debug\net8.0\ref\String Processing 23-30.dll
